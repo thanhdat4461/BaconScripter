@@ -1,3 +1,2 @@
-# A Place For Other Scripts Such Like FREE UGC Or UGC Limited It's Made By BaconScripter
-
-![standard (3)](https://github.com/thanhdat4461/BaconScripter/assets/125394392/34bfb5b0-f615-4657-b721-dbf7149c318e)
+# A Place For Other Scripts
+![static (4)](https://github.com/thanhdat4461/BaconScripter/assets/125394392/1bcb4f73-d3a7-4cf6-bcc6-cfdbf91661fb)
