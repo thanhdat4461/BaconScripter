@@ -1,2 +1,2 @@
-# A Place For Other Scripts
-![static (4)](https://github.com/thanhdat4461/BaconScripter/assets/125394392/1bcb4f73-d3a7-4cf6-bcc6-cfdbf91661fb)
+# A Place For Other Script
+![static (5)](https://github.com/thanhdat4461/BaconScripter/assets/125394392/135afa4f-a2c0-4dd3-b084-d6fe29965a52)
