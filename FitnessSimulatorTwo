@@ -1,1 +1,11 @@
-game.StarterGui:SetCore("SendNotification", {Title = "Outdated Script", Duration = 10, Text = "" })
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Outdated Script!",
+    Text = "Please Get New Script",
+    Duration = 10
+})
+setclipboard("http://simp.ly/p/f8fFzg")
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Script Link Copied!",
+    Text = "The Script Link has been copied to your clipboard.",
+    Duration = 10
+})
